@@ -1,7 +1,8 @@
 # postest_praktikum_ddp
 flowchart
 ![Screenshot (14)](https://github.com/RifqiHadiWijaya/postest_praktikum_ddp/assets/144756565/3ea51038-ffbf-413d-978e-6cc2896cc052)
-![Screenshot (15)](https://github.com/RifqiHadiWijaya/postest_praktikum_ddp/assets/144756565/12aab4e6-aefa-4983-b5f1-365b9d642873)
+![Screenshot (20)](https://github.com/RifqiHadiWijaya/postest_praktikum_ddp/assets/144756565/32cb170a-1d74-48f8-bc68-660ec54cded2)
+
 
 login
 
